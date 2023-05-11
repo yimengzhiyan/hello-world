@@ -1,3 +1,3 @@
 # hello-world
 strat of the learning trip
-** learn using branch and try **
+tyr new branch and try to merge it 
